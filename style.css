@@ -58,7 +58,7 @@ section h1 {
 }
 
 section p {
-    width: 600px;
+    max-width: 600px;
     margin: auto;
 }
 
